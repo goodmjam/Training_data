@@ -26,14 +26,14 @@ This document serves as a reference template for endurance athletes using the de
 
 | Field | Value |
 |-------|-------|
-| Name | [Your name or alias] |
-| Age | [Age] |
-| Height | [cm] |
-| Current Weight | [kg] |
-| Target Weight | [kg] |
+| Name | [Sporty Spice] |
+| Age | [35] |
+| Height | [180] |
+| Current Weight | [78] |
+| Target Weight | [78] |
 | Location | [City, Country] |
 
-**Weigh-in Protocol:** [e.g., Once weekly, Friday morning, after bathroom, before food/drink]
+**Weigh-in Protocol:** [weekly]
 
 ### Medications & Supplements (Optional)
 
@@ -46,19 +46,19 @@ This document serves as a reference template for endurance athletes using the de
 
 | Type | Description |
 |------|-------------|
-| Primary | [e.g., Cycling performance (Endurance)] |
-| Secondary | [e.g., Running, SkiErg, Walking] |
+| Primary | [Cycling] |
+| Secondary | [Running] |
 
 ### Goals
 
 | Goal | Target Date |
 |------|-------------|
-| [Primary goal] | [Year] |
-| [Secondary goal] | [Year] |
+| [Primary goal] | [WURL] |
+| [Secondary goal] | [Triple Bypass] |
 | [Tertiary goal] | [Year] |
 
-**Current Phase:** [e.g., Aerobic build + threshold development]  
-**Training Style:** [e.g., High-volume polarized (~15h/week)]
+**Current Phase:** [Aerobic build + threshold development]  
+**Training Style:** [High-volume polarized (~15h/week)]
 
 ---
 
@@ -68,36 +68,35 @@ This document serves as a reference template for endurance athletes using the de
 
 | Component | Details |
 |-----------|---------|
-| Trainer/Bike | [Model] |
-| Platform | [e.g., Zwift, TrainerRoad, Tacx App] |
-| Cooling | [Fans, AC, etc.] |
-| Sensors | [HRM, power meter, cadence] |
-| Pedals | [Model] |
+| Trainer/Bike | [N/A] |
+| Platform | [analog] |
+| Cooling | [Fans] |
+| Sensors | [HRM] |
+| Pedals | [shimano] |
 
 ### Outdoor Setup
 
 | Component | Details |
 |-----------|---------|
-| Bike | [Model, size] |
-| Power Meter | [Model] |
-| Head Unit | [Model] |
-| HRM | [Model] |
+| Bike | [Specialized tarmac] |
+| Power Meter | [N/A] |
+| Head Unit | [N/A] |
+| HRM | [polar] |
 
 ### Other Modalities
 
 | Modality | Equipment | Purpose |
 |----------|-----------|---------|
-| [e.g., SkiErg] | [Model] | [e.g., Upper-body aerobic] |
-| [e.g., Running] | [Shoes, watch] | [e.g., Active recovery] |
-| [e.g., Strength] | [Equipment] | [e.g., Core stability] |
+| [Weight lifting] | [kettle bells and dumbells] | [e.g., Upper-body aerobic] |
+| Running | [Shoes, watch] | [Get into endurance running shape] |
 
 ### Environment
 
 | Factor | Details |
 |--------|---------|
-| Indoor | [Description of training space, ventilation, temperature] |
-| Outdoor | [Typical terrain, climate, temperature range] |
-| Calibration | [Routine for power meter calibration] |
+| Indoor | [Home gym] |
+| Outdoor | [trails around denver] |
+| Calibration | [N/A] |
 
 ---
 
@@ -105,8 +104,8 @@ This document serves as a reference template for endurance athletes using the de
 
 ### Weekly Volume Target
 
-**Baseline:** [X] hours/week (± [Y] hours)  
-**Peak phases:** Up to [Z] hours (requires RI ≥ 0.8, HRV within 10%)
+**Baseline:** [7] hours/week (± [5] hours)  
+**Peak phases:** Up to [20] hours (requires RI ≥ 0.8, HRV within 10%)
 
 ### Normal Weekly Schedule
 
