@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T23:15:30.409566",
+  "generated_at": "2026-06-11T02:01:32.996401",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -353,6 +353,97 @@
           "duration_secs": 1,
           "avg_hr": 130,
           "max_hr": 130,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i156239369",
+      "date": "2026-06-10",
+      "type": "Ride",
+      "name": "Afternoon Ride",
+      "interval_summary": [
+        "8x 16m21s 136bpm",
+        "1x 4m51s 138bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "981s@136bpm",
+          "duration_secs": 987,
+          "avg_hr": 124,
+          "max_hr": 141,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "981s@136bpm",
+          "duration_secs": 1070,
+          "avg_hr": 136,
+          "max_hr": 162,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "981s@136bpm",
+          "duration_secs": 1044,
+          "avg_hr": 131,
+          "max_hr": 147,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "981s@136bpm",
+          "duration_secs": 990,
+          "avg_hr": 138,
+          "max_hr": 150,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "981s@136bpm",
+          "duration_secs": 897,
+          "avg_hr": 139,
+          "max_hr": 150,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "981s@136bpm",
+          "duration_secs": 933,
+          "avg_hr": 136,
+          "max_hr": 166,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "981s@136bpm",
+          "duration_secs": 949,
+          "avg_hr": 142,
+          "max_hr": 162,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "981s@136bpm",
+          "duration_secs": 979,
+          "avg_hr": 145,
+          "max_hr": 170,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "291s@138bpm",
+          "duration_secs": 291,
+          "avg_hr": 138,
+          "max_hr": 151,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 119,
+          "max_hr": 119,
           "zone": 1
         }
       ]
