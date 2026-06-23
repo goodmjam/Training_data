@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T01:49:36.609792",
+  "generated_at": "2026-06-23T06:11:54.339607",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -473,6 +473,75 @@
           "duration_secs": 1,
           "avg_hr": 101,
           "max_hr": 101,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i159549688",
+      "date": "2026-06-22",
+      "type": "VirtualRide",
+      "name": "Evening Virtual Ride",
+      "interval_summary": [
+        "4x 10m 128bpm",
+        "2x 10m 170bpm",
+        "1x 5m46s 131bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "600s@128bpm",
+          "duration_secs": 600,
+          "avg_hr": 112,
+          "max_hr": 132,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@128bpm",
+          "duration_secs": 599,
+          "avg_hr": 124,
+          "max_hr": 133,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@128bpm",
+          "duration_secs": 600,
+          "avg_hr": 140,
+          "max_hr": 181,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "600s@170bpm",
+          "duration_secs": 600,
+          "avg_hr": 169,
+          "max_hr": 183,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "600s@170bpm",
+          "duration_secs": 600,
+          "avg_hr": 171,
+          "max_hr": 186,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "600s@128bpm",
+          "duration_secs": 600,
+          "avg_hr": 134,
+          "max_hr": 186,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "346s@131bpm",
+          "duration_secs": 346,
+          "avg_hr": 131,
+          "max_hr": 131,
           "zone": 1
         }
       ]
