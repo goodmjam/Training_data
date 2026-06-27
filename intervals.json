@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T21:30:58.086557",
+  "generated_at": "2026-06-27T22:43:29.562147",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -555,6 +555,83 @@
           "duration_secs": 570,
           "avg_hr": 118,
           "max_hr": 147,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i160822422",
+      "date": "2026-06-27",
+      "type": "VirtualRide",
+      "name": "Afternoon Virtual Ride",
+      "interval_summary": [
+        "6x 10m 110bpm",
+        "1x 10m 88bpm",
+        "1x 5m9s 79bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "600s@110bpm",
+          "duration_secs": 601,
+          "avg_hr": 109,
+          "max_hr": 121,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@110bpm",
+          "duration_secs": 599,
+          "avg_hr": 113,
+          "max_hr": 123,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@110bpm",
+          "duration_secs": 600,
+          "avg_hr": 111,
+          "max_hr": 123,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@110bpm",
+          "duration_secs": 600,
+          "avg_hr": 111,
+          "max_hr": 121,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@110bpm",
+          "duration_secs": 600,
+          "avg_hr": 108,
+          "max_hr": 121,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@110bpm",
+          "duration_secs": 600,
+          "avg_hr": 105,
+          "max_hr": 118,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@88bpm",
+          "duration_secs": 600,
+          "avg_hr": 88,
+          "max_hr": 111,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "309s@79bpm",
+          "duration_secs": 309,
+          "avg_hr": 79,
+          "max_hr": 79,
           "zone": 1
         }
       ]
