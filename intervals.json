@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T08:38:30.515205",
+  "generated_at": "2026-07-06T12:27:55.700676",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -458,6 +458,58 @@
           "avg_hr": 157,
           "max_hr": 172,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i163197843",
+      "date": "2026-07-06",
+      "type": "VirtualRide",
+      "name": "Morning Virtual Ride",
+      "interval_summary": [
+        "4x 10m 112bpm",
+        "1x 3m48s 83bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "600s@112bpm",
+          "duration_secs": 601,
+          "avg_hr": 102,
+          "max_hr": 120,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@112bpm",
+          "duration_secs": 599,
+          "avg_hr": 115,
+          "max_hr": 129,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@112bpm",
+          "duration_secs": 600,
+          "avg_hr": 119,
+          "max_hr": 128,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@112bpm",
+          "duration_secs": 600,
+          "avg_hr": 111,
+          "max_hr": 122,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "228s@83bpm",
+          "duration_secs": 228,
+          "avg_hr": 83,
+          "max_hr": 93,
+          "zone": 1
         }
       ]
     }
