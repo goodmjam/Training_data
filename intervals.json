@@ -1,62 +1,10 @@
 {
-  "generated_at": "2026-07-08T23:30:41.977239",
+  "generated_at": "2026-07-09T01:17:03.433769",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i160126627",
-      "date": "2026-06-24",
-      "type": "VirtualRide",
-      "name": "Evening Virtual Ride",
-      "interval_summary": [
-        "2x 9m45s 125bpm",
-        "3x 10m 163bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "585s@125bpm",
-          "duration_secs": 600,
-          "avg_hr": 131,
-          "max_hr": 161,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "600s@163bpm",
-          "duration_secs": 599,
-          "avg_hr": 160,
-          "max_hr": 172,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "600s@163bpm",
-          "duration_secs": 600,
-          "avg_hr": 170,
-          "max_hr": 180,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "600s@163bpm",
-          "duration_secs": 600,
-          "avg_hr": 160,
-          "max_hr": 176,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "585s@125bpm",
-          "duration_secs": 570,
-          "avg_hr": 118,
-          "max_hr": 147,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i160822422",
       "date": "2026-06-27",
