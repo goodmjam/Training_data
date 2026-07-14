@@ -1,106 +1,10 @@
 {
-  "generated_at": "2026-07-13T23:14:12.572379",
+  "generated_at": "2026-07-14T00:09:59.288945",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i161324783",
-      "date": "2026-06-29",
-      "type": "Ride",
-      "name": "Morning Ride",
-      "interval_summary": [
-        "2x 24m28s 146bpm",
-        "2x 36m10s 143bpm",
-        "3x 19m35s 130bpm",
-        "1x 9m59s 116bpm",
-        "1x 9m23s 130bpm",
-        "1x 7m28s 131bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "1468s@146bpm",
-          "duration_secs": 1439,
-          "avg_hr": 140,
-          "max_hr": 158,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "2170s@143bpm",
-          "duration_secs": 2174,
-          "avg_hr": 145,
-          "max_hr": 169,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "2170s@143bpm",
-          "duration_secs": 2166,
-          "avg_hr": 140,
-          "max_hr": 166,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "1175s@130bpm",
-          "duration_secs": 1168,
-          "avg_hr": 127,
-          "max_hr": 158,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1175s@130bpm",
-          "duration_secs": 1152,
-          "avg_hr": 127,
-          "max_hr": 151,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1468s@146bpm",
-          "duration_secs": 1496,
-          "avg_hr": 151,
-          "max_hr": 172,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "599s@116bpm",
-          "duration_secs": 599,
-          "avg_hr": 116,
-          "max_hr": 156,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1175s@130bpm",
-          "duration_secs": 1206,
-          "avg_hr": 137,
-          "max_hr": 170,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "563s@130bpm",
-          "duration_secs": 563,
-          "avg_hr": 130,
-          "max_hr": 151,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "448s@131bpm",
-          "duration_secs": 448,
-          "avg_hr": 131,
-          "max_hr": 155,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i162695847",
       "date": "2026-07-04",
