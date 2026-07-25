@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T15:41:30.326788",
+  "generated_at": "2026-07-25T16:37:20.100062",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -449,6 +449,79 @@
           "avg_hr": 123,
           "max_hr": 146,
           "avg_cadence": 52.098824,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i169140569",
+      "date": "2026-07-25",
+      "type": "Ride",
+      "name": "Morning Ride",
+      "interval_summary": [
+        "1x 27m57s 125bpm",
+        "1x 27m9s 154bpm",
+        "1x 33m45s 150bpm",
+        "1x 50m43s 134bpm",
+        "1x 52m41s 114bpm",
+        "1x 12m7s 122bpm",
+        "1x 7m4s 115bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1677s@125bpm",
+          "duration_secs": 1677,
+          "avg_hr": 125,
+          "max_hr": 154,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1629s@154bpm",
+          "duration_secs": 1629,
+          "avg_hr": 154,
+          "max_hr": 172,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "2025s@150bpm",
+          "duration_secs": 2025,
+          "avg_hr": 150,
+          "max_hr": 162,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "3043s@134bpm",
+          "duration_secs": 3043,
+          "avg_hr": 134,
+          "max_hr": 157,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "3161s@114bpm",
+          "duration_secs": 3161,
+          "avg_hr": 114,
+          "max_hr": 164,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "727s@122bpm",
+          "duration_secs": 727,
+          "avg_hr": 122,
+          "max_hr": 163,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "424s@115bpm",
+          "duration_secs": 424,
+          "avg_hr": 115,
+          "max_hr": 126,
           "zone": 1
         }
       ]
