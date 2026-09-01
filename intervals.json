@@ -1,80 +1,10 @@
 {
-  "generated_at": "2026-08-31T23:26:07.593627",
+  "generated_at": "2026-09-01T01:59:41.378480",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i176948215",
-      "date": "2026-08-17",
-      "type": "VirtualRun",
-      "name": "Afternoon Virtual Run",
-      "interval_summary": [
-        "5x 8m10s 150bpm",
-        "1x 5m37s 113bpm"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1
-        },
-        {
-          "type": "WORK",
-          "label": "490s@150bpm77rpm",
-          "duration_secs": 528,
-          "avg_hr": 132,
-          "max_hr": 141,
-          "avg_cadence": 73.35907,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "490s@150bpm77rpm",
-          "duration_secs": 492,
-          "avg_hr": 146,
-          "max_hr": 156,
-          "avg_cadence": 76.560326,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "490s@150bpm77rpm",
-          "duration_secs": 490,
-          "avg_hr": 150,
-          "max_hr": 160,
-          "avg_cadence": 76.3272,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "490s@150bpm77rpm",
-          "duration_secs": 448,
-          "avg_hr": 162,
-          "max_hr": 166,
-          "avg_cadence": 78.24215,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "490s@150bpm77rpm",
-          "duration_secs": 490,
-          "avg_hr": 158,
-          "max_hr": 163,
-          "avg_cadence": 78.55123,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "337s@113bpm48rpm",
-          "duration_secs": 337,
-          "avg_hr": 113,
-          "max_hr": 143,
-          "avg_cadence": 48.34743,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i177751887",
       "date": "2026-08-19",
