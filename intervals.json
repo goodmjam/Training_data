@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T13:27:21.564732",
+  "generated_at": "2026-09-19T16:44:19.791410",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -164,6 +164,61 @@
           "avg_hr": 143,
           "max_hr": 165,
           "avg_cadence": 61.12289,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i188287059",
+      "date": "2026-09-19",
+      "type": "Ride",
+      "name": "Morning Ride",
+      "interval_summary": [
+        "1x 23m49s 98bpm",
+        "1x 17m5s 144bpm",
+        "1x 22m59s 149bpm",
+        "1x 23m4s 130bpm",
+        "1x 19m57s 126bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1429s@98bpm",
+          "duration_secs": 1429,
+          "avg_hr": 98,
+          "max_hr": 132,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1025s@144bpm",
+          "duration_secs": 1025,
+          "avg_hr": 144,
+          "max_hr": 178,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1379s@149bpm",
+          "duration_secs": 1379,
+          "avg_hr": 149,
+          "max_hr": 177,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1384s@130bpm",
+          "duration_secs": 1384,
+          "avg_hr": 130,
+          "max_hr": 164,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1197s@126bpm",
+          "duration_secs": 1197,
+          "avg_hr": 126,
+          "max_hr": 168,
           "zone": 1
         }
       ]
