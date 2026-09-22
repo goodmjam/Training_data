@@ -1,80 +1,10 @@
 {
-  "generated_at": "2026-09-21T22:35:22.741187",
+  "generated_at": "2026-09-22T01:12:42.518486",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i184358398",
-      "date": "2026-09-07",
-      "type": "TrailRun",
-      "name": "Lunch Trail Run",
-      "interval_summary": [
-        "1x 15m48s 162bpm",
-        "1x 40m49s 159bpm",
-        "1x 27m57s 151bpm",
-        "1x 12m54s 156bpm",
-        "1x 11m36s 164bpm",
-        "1x 5m41s 164bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "948s@162bpm38rpm",
-          "duration_secs": 948,
-          "avg_hr": 162,
-          "max_hr": 181,
-          "avg_cadence": 37.738808,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "2449s@159bpm28rpm",
-          "duration_secs": 2449,
-          "avg_hr": 159,
-          "max_hr": 173,
-          "avg_cadence": 27.527391,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "1677s@151bpm33rpm",
-          "duration_secs": 1677,
-          "avg_hr": 151,
-          "max_hr": 172,
-          "avg_cadence": 33.13194,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "774s@156bpm73rpm",
-          "duration_secs": 774,
-          "avg_hr": 156,
-          "max_hr": 169,
-          "avg_cadence": 73.002594,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "696s@164bpm75rpm",
-          "duration_secs": 696,
-          "avg_hr": 164,
-          "max_hr": 172,
-          "avg_cadence": 74.644,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "341s@164bpm67rpm",
-          "duration_secs": 341,
-          "avg_hr": 164,
-          "max_hr": 180,
-          "avg_cadence": 67.02655,
-          "zone": 4
-        }
-      ]
-    },
     {
       "activity_id": "i185060968",
       "date": "2026-09-09",
