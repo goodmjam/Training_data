@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:14:55.940756",
+  "generated_at": "2026-09-28T18:37:52.666894",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -178,6 +178,59 @@
           "duration_secs": 370,
           "avg_hr": 100,
           "max_hr": 110,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i191293252",
+      "date": "2026-09-28",
+      "type": "VirtualRide",
+      "name": "Lunch Virtual Ride",
+      "interval_summary": [
+        "1x 10m 108bpm",
+        "3x 10m 129bpm",
+        "1x 6m24s 100bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "600s@108bpm",
+          "duration_secs": 600,
+          "avg_hr": 108,
+          "max_hr": 131,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@129bpm",
+          "duration_secs": 599,
+          "avg_hr": 132,
+          "max_hr": 138,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@129bpm",
+          "duration_secs": 600,
+          "avg_hr": 129,
+          "max_hr": 140,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@129bpm",
+          "duration_secs": 600,
+          "avg_hr": 126,
+          "max_hr": 131,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "384s@100bpm",
+          "duration_secs": 384,
+          "avg_hr": 100,
+          "max_hr": 125,
           "zone": 1
         }
       ]
